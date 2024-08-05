@@ -9,3 +9,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 3rd August
 - [Make Two Arrays Equal by Reversing Subarrays (Easy)](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/?envType=daily-question&envId=2024-08-03)
+
+# 4th August
+- [Range Sum of Sorted Subarray Sums (Medium)](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/?envType=daily-question&envId=2024-08-04)
