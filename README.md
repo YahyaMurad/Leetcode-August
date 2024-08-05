@@ -12,3 +12,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 4th August
 - [Range Sum of Sorted Subarray Sums (Medium)](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/?envType=daily-question&envId=2024-08-04)
+
+# 5th August
+- [Kth Distinct String in an Array (Easy)](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/?envType=daily-question&envId=2024-08-05)
