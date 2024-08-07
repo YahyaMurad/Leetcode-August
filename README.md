@@ -18,3 +18,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 6th August
 - [Minimum Number of Pushes to Type Word II (Medium)](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/?envType=daily-question&envId=2024-08-06)
+
+# 7th August
+- [Integer to English Words (Hard)](https://leetcode.com/problems/integer-to-english-words/description/?envType=daily-question&envId=2024-08-07)
