@@ -24,3 +24,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 8th August
 - [Spiral Matrix III (Medium)](https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-question&envId=2024-08-08)
+
+# 9th August
+- [Magic Squares In Grid (Medium)](https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2024-08-09)
