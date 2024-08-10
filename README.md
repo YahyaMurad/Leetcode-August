@@ -27,3 +27,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 9th August
 - [Magic Squares In Grid (Medium)](https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2024-08-09)
+
+# 10th August
+- [Regions Cut By Slashes (Medium)](https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10)
