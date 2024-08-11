@@ -30,3 +30,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 10th August
 - [Regions Cut By Slashes (Medium)](https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10)
+
+# 11th August
+- [Minimum Number of Days to Disconnect Island (Hard)](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11)
