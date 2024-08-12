@@ -33,3 +33,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 11th August
 - [Minimum Number of Days to Disconnect Island (Hard)](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11)
+
+# 12th August
+- [Kth Largest Element in a Stream (Easy)](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=daily-question&envId=2024-08-12)
