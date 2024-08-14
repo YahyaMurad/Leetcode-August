@@ -36,3 +36,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 12th August
 - [Kth Largest Element in a Stream (Easy)](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=daily-question&envId=2024-08-12)
+
+# 13th August
+- [Combination Sum II (Medium)](https://leetcode.com/problems/combination-sum-ii/description/?envType=daily-question&envId=2024-08-13)
