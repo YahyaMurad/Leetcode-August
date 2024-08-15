@@ -42,3 +42,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 14th August
 - [Find K-th Smallest Pair Distance (Hard)](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/?envType=daily-question&envId=2024-08-14)
+
+# 15th August
+- [Lemonade Change (Easy)](https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15)
