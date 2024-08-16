@@ -45,3 +45,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 15th August
 - [Lemonade Change (Easy)](https://leetcode.com/problems/lemonade-change/description/?envType=daily-question&envId=2024-08-15)
+
+# 16th August
+- [Maximum Distance in Arrays (Medium)](https://leetcode.com/problems/maximum-distance-in-arrays/description/?envType=daily-question&envId=2024-08-16)
